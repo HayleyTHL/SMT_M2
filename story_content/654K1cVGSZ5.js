@@ -1,0 +1,1 @@
+window.globalProvideSvgData('svg-654K1cVGSZ5', "<svg width=\"7\" height=\"116\" viewBox=\"0 0 7 116\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" id=\"svg-654K1cVGSZ5\"><g pointer-events=\"visiblePainted\" data-accepts=\"events\"><line x1=\"3.5\" x2=\"3.5\" y2=\"116\" stroke=\"#F1F2FF\" stroke-width=\"7\" stroke-dasharray=\"6 6\" /></g></svg>");
